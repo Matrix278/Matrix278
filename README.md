@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a junior software engineer who loves to learn new technologies in my way of programming.
+I'm a junior software engineer who loves to learn new technologies in the way of programming.
 
 - 🌱 I’m currently learning Go lang & PostgreSQL
 - 📫 How to reach me: You can write me on linkedin, facebook or by [mail](mailto:martin.sidrovo27@gmail.com)
