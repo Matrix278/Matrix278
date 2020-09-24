@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm a junior software engineer who loves to learn new technologies in the way of programming.
 
 - 🌱 I’m currently learning Go lang & PostgreSQL
-- 📫 How to reach me: You can write me on linkedin, facebook or by [mail](mailto:martin.sidrovo27@gmail.com)
+- 📫 How to reach me: You can write me on linkedin, facebook or by [mail](mailto:martin.sidrovo27@gmail.com). All links can be found on my website https://themartinsidorov.tk/
 
 *The top languages stats doesn't give perspective of my skills, but that looks cool 😄, thanks to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
