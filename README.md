@@ -60,3 +60,7 @@
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--![Matrix](https://github.com/Matrix278/Matrix278/blob/master/assets/cmatrix.gif)-->
+
+<p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
