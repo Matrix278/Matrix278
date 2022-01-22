@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://themartinsidorov.tk">Martin!</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.tk">Martin!</a></h1>
 <h3 align="center">A passionate Junior Software Engineer from Estonia</h3>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with any sorting algorithms on any programming language in [Algorithms project](https://github.com/Matrix278/algorithms)
 
-- 👨‍💻 All of my projects are available at [https://themartinsidorov.tk/](https://themartinsidorov.tk/) and here)
+- 👨‍💻 All of my projects are available at [https://martinsidorov.tk/](https://martinsidorov.tk/) and here)
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/martin-s-8002a0157), [facebook](https://www.facebook.com/nitram278) or by [mail](mailto:martin.sidorov27@gmail.com)
 
