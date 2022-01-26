@@ -38,6 +38,7 @@
   <a href="https://www.showwcase.com/matrix278" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEQ8GtXpihTlA/company-logo_200_200/0/1633746807779?e=1645056000&v=beta&t=5HlTxXKS9MtR2cT1f-_G0X6EZfR0pSUbahBS9ir93tI" alt="matrix278" height="30" width="40" /></a>
   <a href="https://dev.page/martin-sidorov" target="blank"><img align="center" src="https://dev.page/static/favicons/favicon-32x32.png" alt="matrix278" height="30" width="40" /></a>
   <a href="https://www.polywork.com/matrix278" target="blank"><img align="center" src="https://d26uz55awpmifc.cloudfront.net/assets/favicon/favicon-32x32-6313576cc7f656f174a3485f9f3c57bc046fe3e716be94221c44cb71320678e0.png" alt="matrix278" height="30" width="40" /></a>
+  <a href="https://cord.co/candidate/account/u/candidate/57771" target="blank"><img align="center" src="https://assets.co-hire.com/react/p/cord-icon-180.png" alt="martin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
