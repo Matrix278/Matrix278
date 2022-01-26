@@ -20,6 +20,10 @@
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/martin-s-8002a0157), [facebook](https://www.facebook.com/nitram278) or by [mail](mailto:martin.sidorov27@gmail.com)
 
+<p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/martin-sidorov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
@@ -63,7 +67,3 @@
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--![Matrix](https://github.com/Matrix278/Matrix278/blob/master/assets/cmatrix.gif)-->
-
-<p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
