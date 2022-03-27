@@ -68,12 +68,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Matrix278&theme=radical&show_icons=true&locale=en" alt="Martin's github stats" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix278&theme=radical&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
   </a>
