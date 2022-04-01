@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.tk">Martin!</a></h1>
-<h3 align="center">A passionate Junior Software Engineer from Estonia</h3>
+<h3 align="center">A passionate Software Engineer from Estonia</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=matrix278&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
