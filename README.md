@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.tk">Martin!</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Martin!</a></h1>
 <h3 align="center">A passionate Software Engineer from Estonia</h3>
 
 <div align="center">
