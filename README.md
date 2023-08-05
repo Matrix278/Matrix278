@@ -36,8 +36,7 @@
   <a href="https://stackoverflow.com/users/11167914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/matrix278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matrix278" height="30" width="40" /></a>
   <a href="https://www.showwcase.com/matrix278" target="blank"><img align="center" src="https://www.showwcase.com/favicon.png" alt="matrix278" height="30" width="40" /></a>
-  <a href="https://dev.page/martin-sidorov" target="blank"><img align="center" src="https://dev.page/static/favicons/favicon-32x32.png" alt="matrix278" height="30" width="40" /></a>
-  <a href="https://www.polywork.com/matrix278" target="blank"><img align="center" src="https://d26uz55awpmifc.cloudfront.net/assets/favicon/favicon-32x32-6313576cc7f656f174a3485f9f3c57bc046fe3e716be94221c44cb71320678e0.png" alt="matrix278" height="30" width="40" /></a>
+  <a href="https://www.polywork.com/matrix278" target="blank"><img align="center" src="https://www.polywork.com/assets/favicon/apple-icon-57x57-49bf05211cd5ebece3be3898101ac4b1d320d45bcbaa5b48f3dbf3dc33c8b3b3.png" alt="matrix278" height="30" width="40" /></a>
   <a href="https://cord.co/candidate/account/u/candidate/57771" target="blank"><img align="center" src="https://assets.co-hire.com/react/p/cord-icon-180.png" alt="martin" height="30" width="40" /></a>
 </p>
 
