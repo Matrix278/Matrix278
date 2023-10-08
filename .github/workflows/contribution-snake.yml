@@ -35,6 +35,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
