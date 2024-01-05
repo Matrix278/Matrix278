@@ -6,6 +6,10 @@
   <a href="https://www.buymeacoffee.com/matrix278"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="matrix278" /></a>
 </div>
 
+<div align="center">
+  <a href="https://u8views.com/github/Matrix278"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
+</div>
+
 <!-- <div align="center"> <img src="https://github.com/Matrix278/Matrix278/blob/master/assets/matrix-has-you.gif" alt="matrix278" /> </div> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
@@ -71,5 +75,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
   </a>
 </div>
-
 <!--![Matrix](https://github.com/Matrix278/Matrix278/blob/master/assets/cmatrix.gif)-->
