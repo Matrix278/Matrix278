@@ -66,11 +66,11 @@
   <a href="https://www.buymeacoffee.com/matrix278"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="matrix278" /></a>
 </p> -->
 
-<div align="center">
-  <a href="https://app.daily.dev/matrix278"><img src="https://api.daily.dev/devcards/v2/6SF_8OuiY.png?type=default&r=qb7" width="356" alt="Martin Sidorov's Dev Card"/></a>
-
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
-  </a>
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://app.daily.dev/matrix278"><img src="https://api.daily.dev/devcards/v2/6SF_8OuiY.png?type=default&r=qb7" width="356" alt="Martin Sidorov's Dev Card"/></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
+    </a>
 </div>
+
 <!--![Matrix](https://github.com/Matrix278/Matrix278/blob/master/assets/cmatrix.gif)-->
