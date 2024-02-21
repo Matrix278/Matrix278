@@ -67,10 +67,8 @@
 </p> -->
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> 
-    <img src="https://github-readme-stats-matrix278.vercel.app/api?username=Matrix278&theme=radical&show_icons=true&locale=en" alt="Martin's github stats" />
-  </a>
-  
+  <a href="https://app.daily.dev/matrix278"><img src="https://api.daily.dev/devcards/v2/6SF_8OuiY.png?type=default&r=qb7" width="356" alt="Martin Sidorov's Dev Card"/></a>
+
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
   </a>
