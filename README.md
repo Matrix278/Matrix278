@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://martinsidorov.com/](https://martinsidorov.com/) and here in GitHub 😄
 
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/martin-s-8002a0157), [facebook](https://www.facebook.com/nitram278) or by [mail](mailto:martin.sidorov27@gmail.com)
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/martin-sidorov), [facebook](https://www.facebook.com/nitram278) or by [mail](mailto:martin.sidorov27@gmail.com)
 
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
